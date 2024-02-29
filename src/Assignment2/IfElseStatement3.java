@@ -1,3 +1,5 @@
+package src.Assignment2;
+
 public class IfElseStatement3 {
 
 	public static void main(String[] args) {

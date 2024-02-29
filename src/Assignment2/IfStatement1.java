@@ -1,3 +1,5 @@
+package src.Assignment2;
+
 import java.util.*;
 
 public class IfStatement1 {
