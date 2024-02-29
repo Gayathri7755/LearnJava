@@ -1,3 +1,5 @@
+package src.Assignment1;
+
 public class Casting {
     public static void main(String[] args) {
         // Narrowing TypeCasting
