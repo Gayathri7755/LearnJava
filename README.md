@@ -1,5 +1,5 @@
-# Loop Statements
-.For 
-.Nested For
-.While
-.Do While
+Loop Statements
+- For 
+- Nested For
+- While
+- Do While
